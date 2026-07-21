@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Monorepo - Web (App Service)",
+    "description": "Node.js + Express on Azure App Service. Part of the monorepo-templates repo; after init, change into the web/ folder to run azd up.",
+    "repositoryPath": "seesharprun/monorepo-templates",
+    "tags": [ "monorepo", "web", "appservice", "nodejs", "bicep" ]
+  },
+  {
+    "name": "Monorepo - API (Container Apps)",
+    "description": "Node.js + Express on Azure Container Apps with Docker. Part of the monorepo-templates repo; after init, change into the api/ folder to run azd up.",
+    "repositoryPath": "seesharprun/monorepo-templates",
+    "tags": [ "monorepo", "api", "containerapp", "nodejs", "bicep" ]
+  }
+]

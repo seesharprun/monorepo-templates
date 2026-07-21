@@ -1,0 +1,15 @@
+{
+  "name": "api-containerapp",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sample Node.js API hosted on Azure Container Apps (monorepo template).",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

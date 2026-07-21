@@ -1,0 +1,15 @@
+{
+  "name": "web-appservice",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sample Node.js web app hosted on Azure App Service (monorepo template).",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
